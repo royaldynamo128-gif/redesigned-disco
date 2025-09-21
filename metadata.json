@@ -1,0 +1,5 @@
+{
+  "name": "Smart Revision Alarm",
+  "description": "An intelligent alarm clock that requires you to answer revision questions to turn it off. It uses spaced repetition principles to help you remember what you've learned. Manage your questions, track your progress, and customize your wake-up experience.",
+  "requestFramePermissions": []
+}
